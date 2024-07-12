@@ -3,7 +3,7 @@
 # Earthquake Data Pipeline Project
 
 ## Project Overview
-This project involved building a data pipeline to automate the ingestion, transformation, and reporting of daily earthquake data from the USGS Earthquake API. The pipeline is designed to run daily, ingesting new earthquake data, transforming it, and updating a PowerBI report with the latest insights.
+This Guided project involved building a data pipeline to automate the ingestion, transformation, and reporting of daily earthquake data from the USGS Earthquake API. The pipeline is designed to run daily, ingesting new earthquake data, transforming it, and updating a PowerBI report with the latest insights.
 
 ## Steps Taken
 
